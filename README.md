@@ -34,14 +34,15 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilsharma-ss&theme=tokyonight&show_icons=true&hide_border=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsharma-ss&theme=tokyonight&hide_border=true" height="170px"/>
-</p>
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilsharma-ss&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsharma-ss&theme=tokyonight&layout=compact&hide_border=true" height="160px"/>
-</p>
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilsharma-ss&theme=dark&hide_border=false)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsharma-ss&theme=dark&hide_border=false&layout=compact)
+
 
 
 ---
