@@ -32,27 +32,25 @@
 
 ---
 
-## 📊 GitHub Stats (Working Version)
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilsharma-ss&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilsharma-ss&theme=tokyonight&show_icons=true&hide_border=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsharma-ss&theme=tokyonight&hide_border=true" height="170px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsharma-ss&theme=dark&hide_border=false" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsharma-ss&theme=tokyonight&layout=compact&hide_border=true" height="160px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsharma-ss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170px"/>
-</p>
 
 ---
 
 ## 🧠 About Me
 - 🎓 B.Tech CSE student at **Graphic Era University, Dehradun**  
-- 💡 Passionate about OS, CN, Python, and DSA  
-- 💻 Love building real-world projects & simulations  
-- 🌱 Currently learning: Backend Development & OS Internals  
+- 💡 Passionate about : DSA and Development
+- 💻 Love building real-world projects.
+- 🌱 Currently learning: Backend Development. 
 
 ---
 
