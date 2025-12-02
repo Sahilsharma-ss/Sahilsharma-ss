@@ -34,14 +34,10 @@
 
 ## 📊 GitHub Analytics
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilsharma-ss&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilsharma-ss&theme=dark&hide_border=false)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsharma-ss&theme=dark&hide_border=false&layout=compact)
 
 
 
@@ -57,19 +53,7 @@
 
 ## 🚀 Fun Fact  
 > “Great developers aren’t born — they build themselves, one bug at a time.”
-
 ---
-
-## 👀 Profile Visits  
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=sahilsharma-ss&icon=5&color=6" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-</p>
 
 <p align="center"><b>⭐ If you like my work, consider giving a star to my repositories!</b></p>
 
